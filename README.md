@@ -54,7 +54,5 @@ to check if burning value is working just paste again the adreess and put the de
 
 ## Authors
 
-Contributors names and contact info
-
 Lopez, Julian Caster Troy 
 
