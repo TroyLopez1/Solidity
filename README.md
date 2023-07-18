@@ -6,8 +6,6 @@ This project is will build and deploy unique digital currency on the ethereum bl
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
-
 This is a step by step program that in creating own custom token on the ethereum blockchain using solidity.
 In this project will includes its syntax, data types, functions, and control strutures foe smart contact deployment
 
